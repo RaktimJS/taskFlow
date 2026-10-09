@@ -1,1 +1,5 @@
-Problem_Statement.md
+node_modules/
+dist/
+.DS_Store
+*.local
+.env
